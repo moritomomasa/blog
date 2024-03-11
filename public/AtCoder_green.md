@@ -4,7 +4,7 @@ tags:
   - algorithm
   - AtCoder
 private: true
-updated_at: '2024-03-11T23:19:52+09:00'
+updated_at: '2024-03-11T23:21:55+09:00'
 id: fa61331e143737061eac
 organization_url_name: null
 slide: false
