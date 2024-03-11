@@ -1,11 +1,11 @@
 ---
 title: 緑コーダ―になるために
 tags:
-  - 'algorithm'
-  - 'AtCoder'
+  - algorithm
+  - AtCoder
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-03-11T23:19:52+09:00'
+id: fa61331e143737061eac
 organization_url_name: null
 slide: false
 ignorePublish: false
